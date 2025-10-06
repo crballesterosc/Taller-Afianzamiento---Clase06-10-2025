@@ -54,10 +54,12 @@
 
 
 
+
 <img width="525" height="92" alt="image" src="https://github.com/user-attachments/assets/0e56d2fb-ea4f-4afc-9e18-d4a988a9a294" />
 
 
 # Muestra el resultado de elevar el numero real ingresado al numero natural ingresado
+
 
 
 
