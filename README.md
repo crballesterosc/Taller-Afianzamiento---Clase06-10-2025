@@ -60,5 +60,8 @@
 # Muestra el resultado de elevar el numero real ingresado al numero natural ingresado
 
 
+
 <img width="373" height="605" alt="image" src="https://github.com/user-attachments/assets/f734a228-fd10-454e-9615-efd5a2c2e6e4" />
+
+
 # Muestra las tablas de multiplicar del 1 al 9
