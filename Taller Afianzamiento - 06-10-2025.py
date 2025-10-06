@@ -101,8 +101,8 @@ while(a <= 10):
         print(f"Problema {opcion}")
         for a in range(1, 10):  
             print(f"Tabla de multiplicar del {a}")
-        for b in range(1, 11):  
-            print(f"{a} x {b} = {a * b}")
+            for b in range(1, 11):  
+                print(f"{a} x {b} = {a * b}")
         print()  
 
 
@@ -129,6 +129,7 @@ while(a <= 10):
         Problema10()
     else:
         print("Opcion no valida")
+
 
 
 
